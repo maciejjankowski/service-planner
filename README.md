@@ -1,3 +1,6 @@
+This is one of [Pet projects](https://github.com/maciejjankowski/learn-to-code/wiki/Pet-projects)
+a knock off off [versum](versum.pl)
+
 # service-planner
 
 ### Overview
@@ -12,3 +15,5 @@ Some people live by doing services (hairdressers, barbers, etc.) and they want t
 * how to accesss external API
 ### User stories
 * I want the system to send reminders to my clients based on meetings I have in my calendar (their number will be in the notes field)
+
+
